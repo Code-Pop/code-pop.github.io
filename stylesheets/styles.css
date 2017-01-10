@@ -34,4 +34,5 @@ h1 {
 
 section p.small {
     font-size: 1.25em;
+    margin-bottom: 0;
 }
